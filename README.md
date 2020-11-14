@@ -14,7 +14,7 @@ A profile card component created with HTML & CSS. Coding Challenge provided by h
 ## Deployment
 
 
-Heroku Deployment: https://rosa-note-taker.herokuapp.com/
+Heroku Deployment: https://rosajen27.github.io/profile-card/
 ![demo](./images/demo.png)
 
 ## Built With
