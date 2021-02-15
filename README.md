@@ -1,6 +1,6 @@
-# Profile Card Component
+# 👤 Profile Card Component
 
-A profile card component created with HTML & CSS. Coding Challenge provided by https://www.frontendmentor.io/challenges
+A profile card component created with HTML & CSS.
 
 
 ## Table of Contents
@@ -13,15 +13,16 @@ A profile card component created with HTML & CSS. Coding Challenge provided by h
 
 ## Deployment
 
-
-Deployed Website: https://rosajen27.github.io/profile-card/
+Demo: https://rosajen27.github.io/profile-card/
 
 ![demo](./images/demo.png)
+
 
 ## Built With
 
 * HTML
 * CSS
+
 
 ## Authors
 
@@ -35,7 +36,7 @@ Deployed Website: https://rosajen27.github.io/profile-card/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2021 Jennifer Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
